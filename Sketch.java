@@ -37,7 +37,7 @@ public class Sketch extends PApplet {
 
 	  rect(width/4, height/4, width/4, height/4);
 	    
-	  triangle(width/4, height/4, width/2, height/6, width/2, height/4);
+	  triangle(width/4, height/4, width/4 + width/8, height/6, width/2, height/4);
 	    
 
 	    
