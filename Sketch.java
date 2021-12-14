@@ -49,7 +49,7 @@ public class Sketch extends PApplet {
 
 	  fill(0);
 	    
-	  ellipse(width/4 + width/5, height/3 + height/10, width/100, width/100);
+	  ellipse(width/4 + width/5, height/3 + height/10, width/100, height/100);
 
 	    
 
@@ -63,7 +63,7 @@ public class Sketch extends PApplet {
 	  stroke(255, 211, 0);
 	  fill(255, 211, 0);
 	    
-	  ellipse(width - width/5, height/5, width/10, width/10);
+	  ellipse(width - width/5, height/5, width/10, height/10);
 
   }
   
